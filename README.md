@@ -12,6 +12,6 @@ To run and test the project code, follow the steps below:
 2. Download the notebook and upload the downloaded dataset.
 3. Execute all the cells as explained in the notebook.
 
-4. ## Members
+## Members
 The project was developed with the collaboration of Matteo Carpentieri and Alberto Varini
 
